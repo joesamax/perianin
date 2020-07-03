@@ -33,7 +33,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="http://alizescard.fr/perianin" />
+        <content src="https://alizescard.fr/perianin/" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />

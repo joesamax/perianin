@@ -5,7 +5,7 @@
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>Désir Sucré ADcard</name>
+	<name>Périanin ADcard</name>
 
 	<description>Votre carte virtuelle professionnelle par Alizés Développement</description>
 
@@ -33,7 +33,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="https://alizescard.fr/desirsucre" />
+        <content src="http://alizescard.fr/perianin" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />

@@ -14,6 +14,7 @@
 	<platform name="android" />
 
 	<!-- General preferences -->
+	<application android:usesCleartextTraffic="true" /> 
 	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="buildArchitecture" value="arm" />
 	<preference name="android-build-tool" value="gradle" />
